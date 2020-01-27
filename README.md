@@ -18,7 +18,8 @@ this is a way to split up reciepts between groups
                 "19.20": UUID_1,
                 "$52.49": TOTAL
             }
-        }```
+        }
+        ```
     - split it image into rows and have people claim rows
         - row 1, 2, and 5 belong to jack
         - row 3, 6, 8 belong to saddie
