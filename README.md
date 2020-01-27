@@ -24,4 +24,5 @@ this is a way to split up reciepts between groups
         - row 1, 2, and 5 belong to jack
         - row 3, 6, 8 belong to saddie
         - row 10 is the total
+     - ![row_splitting](https://cdn.discordapp.com/attachments/487260107244044319/671327469566951443/Artboard.png)
 
